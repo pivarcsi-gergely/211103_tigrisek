@@ -2,6 +2,9 @@
 
 namespace Petrik\GeriTigrisek;
 
+use DateTime;
+// ^ vagy ez...
+// vagy ez: \DateTime. \ = globális scope
 class Tigris {
     
     /*private $id;private $nev;private $tulaj_nev;private $orokbefogad_datum;public function __construct($id, $nev, $tulaj_nev, $orokbefogad_datum) {$this->id = $id;$this->nev = $nev;$this->tulaj_nev = $tulaj_nev;$this->orokbefogad_datum = $orokbefogad_datum;}*/
