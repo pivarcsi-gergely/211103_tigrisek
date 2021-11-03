@@ -1,0 +1,11 @@
+{
+    "name": "petrik/geri_tigrisek",
+    "description": "php tigrisek - composer-el",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Petrik\\GeriTigrisek\\": "src/"
+        }
+    },
+    "require": {}
+}
